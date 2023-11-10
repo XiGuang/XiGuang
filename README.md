@@ -1,5 +1,5 @@
 ### Welcome!!!!! 👋
-
+I am a senior majoring in computer science and technology at Shanghai University
 [![XiGuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiGuang&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: t20010510@shu.edu.cn
 - 🔭 I’m currently studing on Shanghai University https://www.shu.edu.cn/
