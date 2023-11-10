@@ -1,18 +1,18 @@
 ### Welcome!!!!! 👋
 
 [![XiGuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiGuang&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- 📫 How to reach me: t20010510@shu.edu.cn
+- 🔭 I’m currently studing on Shanghai University https://www.shu.edu.cn/
+- 🌱 I’m currently learning CG
+- My hobby is watching anime and playing overwatch
 <!--
 **XiGuang/XiGuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently studing on Shanghai University
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: t20010510@shu.edu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
